@@ -1,0 +1,40 @@
+h1,p{
+	text-align: center;
+	
+
+}
+.jumbotron{
+	margin-top: 0px;
+	background-color: rgba(1,1,1,0);
+	color: white;
+	font-weight: bold;
+	background-image: url(2020-Tesla-Roadster-V8-1080.jpg);
+	background-size: cover;
+	background-position: center;
+}
+
+.btn-outline-danger{
+	margin-left: 40%;
+	color: white;
+}
+.bg-danger {
+    background-color: #c91926 !important;
+}
+/*body{
+	background-image: url(2020-Tesla-Roadster-V8-1080.jpg);
+	background-size: cover;
+	background-position: center;*/
+}
+ml-5{
+	margin-left: 50%;
+}
+.blah{
+	padding-left: 800px;
+}
+.nav-item{
+	padding-bottom: 3px;
+}
+.card-text{
+	color: black;
+	font-weight: normal;
+}
