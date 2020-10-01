@@ -8,7 +8,7 @@ h1,p{
 	background-color: rgba(1,1,1,0);
 	color: white;
 	font-weight: bold;
-	background-image: url(2020-Tesla-Roadster-V8-1080.jpg);
+	background-image: url(background.jpg);
 	background-size: cover;
 	background-position: center;
 }
@@ -18,7 +18,7 @@ h1,p{
 	color: white;
 }
 .bg-danger {
-    background-color: #c91926 !important;
+    background-color: darkgoldenrod !important;
 }
 /*body{
 	background-image: url(2020-Tesla-Roadster-V8-1080.jpg);
